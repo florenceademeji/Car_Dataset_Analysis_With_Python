@@ -1,8 +1,3 @@
-##########################################
-##########################################
-##########################################
-############  FLORENCE ADEMEJI FINAL PROJECT 
-
 #install.packages("tidyverse")
 #install.packages("dplyr")
 #install.packages("readr")
