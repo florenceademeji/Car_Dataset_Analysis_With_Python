@@ -7,7 +7,7 @@ from scipy import stats
 %matplotlib inline
 
 # Step 1: Reading the CSV file into a DataFrame
-filename = 'P5-CarData.csv'
+filename = 'data.csv'
 df = pd.read_csv(filename)
 print(df.head())
 
