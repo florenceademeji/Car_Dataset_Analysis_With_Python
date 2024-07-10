@@ -1,12 +1,11 @@
-#  Analyzing English Premier League Standings
-
-A Comprehensive R Function for Dynamic Match Data Processing
+#  Exploratory Data Analysis of Cars 
 
 ## Background
-The English Premier League (EPL) stands as a premier football league globally, boasting 20 competitive teams. Each team competes in 38 matches from August through May, totaling 380 matches per season. In the EPL, victory earns a team 3 points, a draw 1 point, and a loss none. This project aims to develop a function in R to retrieve, process, and analyze match data dynamically, generating updated league standings for a specified date and season.
+Background
+This project involves performing exploratory data analysis (EDA) on a dataset containing attributes about cars and their associated sales price. It contains almost 12,000 rows and 16 columns. The analysis aims to clean, process, and visualize the data to gain insights and understand the relationships between different variables. The final goal is to perform a linear regression using one of the variables to predict the sales price.
 
 ## Executive Summary
-This project revolves around creating a custom R function called EPL_Standings, tailored to produce league standings based on input parameters for date and season. The function accurately manages data inconsistencies, performing comprehensive data cleaning, transformation, aggregation, and sorting to present an accurate summary of team performances up to the chosen date. The analysis focuses on data from the latest three EPL seasons.
+The primary objective of this project is to conduct a thorough exploratory data analysis (EDA) on a car dataset using Python. The analysis includes data cleaning, handling missing values, identifying and removing outliers, and visualizing the data using various plots. Additionally, the project aims to explore the relationship between car horsepower (HP) and sales price (MSRP) through linear regression. The results will provide insights into the dataset's structure and highlight key patterns and relationships.
 
 ## Goals of Analysis
   ##### • Create the EPL_Standings Function: Retrieve EPL match data from online resources.
